@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\bin\Debug\net6.0\EnigmaCore.deps.json
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\bin\Debug\net6.0\EnigmaCore.dll
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\bin\Debug\net6.0\ref\EnigmaCore.dll
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\bin\Debug\net6.0\EnigmaCore.pdb
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.dll
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\ref\EnigmaCore.dll
+C:\Users\Usuario\Documents\Enigma\EnigmaCore\obj\Debug\net6.0\EnigmaCore.pdb

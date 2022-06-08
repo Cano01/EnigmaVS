@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf1bb3fb-11ab-4562-93c6-628ef24af5aa": {
+      "ProjectGuid": "cf1bb3fb-11ab-4562-93c6-628ef24af5aa",
+      "DisplayName": "EnigmaCore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

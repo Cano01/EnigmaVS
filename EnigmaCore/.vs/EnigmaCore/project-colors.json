@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ea33a2a-1d3b-46c9-a24d-048e03caad69": {
+      "ProjectGuid": "1ea33a2a-1d3b-46c9-a24d-048e03caad69",
+      "DisplayName": "EnigmaCore",
+      "ColorIndex": 0
+    },
+    "3852a44d-2e00-4a10-9a02-0048bd5842ed": {
+      "ProjectGuid": "3852a44d-2e00-4a10-9a02-0048bd5842ed",
+      "DisplayName": "EnigmaGUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

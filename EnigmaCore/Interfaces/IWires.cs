@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using EnigmaCore.Interfaces;
 
-namespace EnigmaCore.Parts
+namespace EnigmaCore.Interfaces
 {
-    public class Button : IButton
+    internal interface IWires
     {
     }
 }

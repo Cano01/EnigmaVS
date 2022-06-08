@@ -7,7 +7,8 @@ using EnigmaCore.Interfaces;
 
 namespace EnigmaCore.Parts
 {
-    public class Button : IButton
+    public class Rotor : IRotor
     {
+        public List<string> 
     }
 }

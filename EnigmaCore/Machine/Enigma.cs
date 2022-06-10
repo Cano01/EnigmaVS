@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace EnigmaCore.Machine
 {
-    internal class Enigma
+    public class Enigma
     {
+        public string Encrypt()
+        {
+            return String.Empty;
+        }
+
+        public string Decrypt()
+        {
+            return String.Empty;
+        }
     }
 }

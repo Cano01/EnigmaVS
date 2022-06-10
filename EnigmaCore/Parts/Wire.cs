@@ -1,12 +1,13 @@
-﻿using System;
+﻿using EnigmaCore.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EnigmaGUI.Control
+namespace EnigmaCore.Parts
 {
-    internal class Button
+    public class Wire : IWires
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EnigmaCore.Interfaces
 {
-    internal interface IWires
+    public interface IWires
     {
     }
 }

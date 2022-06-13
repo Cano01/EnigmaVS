@@ -8,7 +8,14 @@ namespace EnigmaCore.Parts
 {
     public class Reflector
     {
-        public List<string> faceValues = new List<string>()
-        {"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"};
+        //Allow this class to be wired
+        public Dictionary<int, int> Reflect = new Dictionary<int, int>();
+
+        public Reflector() {
+            for (int i = 0; i < 26; i++) {
+                Reflect.Add(i, 25 - 1);
+            }
+        }
+
     }
 }

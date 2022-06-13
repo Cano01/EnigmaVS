@@ -14,15 +14,11 @@ namespace EnigmaCore.Interfaces
 
         public int Rate { get; set; }
 
-        public IEnumerable<string> InternalFace { get; set; }
+        public List<int> InternalFace { get; set; }
 
-        public IEnumerable<string> ExternalFace { get; set; }
+        public List<int> ExternalFace { get; set; }
 
-        public IWires wires { get; set; }
-
-        public void Rotate();
-
-
+        public string Rotate(string input);
 
     }
 }

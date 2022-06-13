@@ -10,7 +10,17 @@
       "ProjectGuid": "3852a44d-2e00-4a10-9a02-0048bd5842ed",
       "DisplayName": "EnigmaGUI",
       "ColorIndex": 1
+    },
+    "0a2b227e-35d2-46bf-b893-ba65bb673d9d": {
+      "ProjectGuid": "0a2b227e-35d2-46bf-b893-ba65bb673d9d",
+      "DisplayName": "EnigmaGUI",
+      "ColorIndex": 2
+    },
+    "cfec42e9-b732-4873-a6f7-8635b9e71608": {
+      "ProjectGuid": "cfec42e9-b732-4873-a6f7-8635b9e71608",
+      "DisplayName": "EnigmaGUI",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
